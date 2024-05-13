@@ -1,3 +1,0 @@
-[submodule "tegra-demo-distro"]
-	path = tegra-demo-distro
-	url = git@github.com:OE4T/tegra-demo-distro.git
