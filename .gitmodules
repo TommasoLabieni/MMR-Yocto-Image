@@ -1,0 +1,3 @@
+[submodule "tegra-mmr-distro"]
+	path = tegra-mmr-distro
+	url = https://github.com/TommasoLabieni/tegra-mmr-distro
